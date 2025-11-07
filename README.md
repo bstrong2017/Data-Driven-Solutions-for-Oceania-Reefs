@@ -214,7 +214,6 @@ Project Link: [https://github.com/bstrong2017/Data-Driven-Solutions-for-Oceania-
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
 * [Kaggle](https://www.kaggle.com/datasets/pnminh95/global-bleaching-environmental)
 * [National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/data-science/what-is-predictive-modeling/)

@@ -200,8 +200,8 @@ Distributed under the Unlicense License.
 ## Contact
 
 * Brittany Strong - [@brittany-strong-LinkedIn](https://www.linkedin.com/in/brittany-strong/) 
-* Your Name - [@your-name](link)
-* Your Name - [@your-name](link)
+* Aiden Prashad  
+* Adora Buck 
 
 Project Link: [https://github.com/bstrong2017/Data-Driven-Solutions-for-Oceania-Reefs](https://github.com/bstrong2017/Data-Driven-Solutions-for-Oceania-Reefs.git)
 
